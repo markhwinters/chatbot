@@ -19,9 +19,13 @@ A simple chatbot application built with Node.js.
    ```
 
 2. **Install Dependencies**:
+   ```bash
    npm install
+   ```
 
 ## Usage
 
 1. **Start the Server**:
+   ```bash
    node server.js
+   ```
